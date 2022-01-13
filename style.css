@@ -166,7 +166,9 @@ border-radius: 14.69px ;
         grid-template-columns: repeat(1, 1fr);
         justify-items: center;
     }  
-    .player, .blog, .course , 
+     .course{
+        margin: 25px;
+     } 
     .top-player, .section-title{
         text-align: center;
         flex-direction: column;
